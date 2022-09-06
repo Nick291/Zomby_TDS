@@ -71,4 +71,15 @@ Intermediate/*
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
+LocalDerivedDataCache/*
 DerivedDataCache/*
+Binaries
+DerivedDataCache
+Intermediate
+
+BUILD_GAME_FAIL
+BUILD_EDITOR_FAIL
+BUILD_TOOLS_FAIL
+.idea
+_ReSharper.Caches
+Developer
